@@ -13,7 +13,8 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
-<!--
+<!-- My first GitHub change 
+I am learning GitHub and this is my first open source step.
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -22,6 +23,7 @@ _Get started using GitHub in less than an hour._
 ## Step 2: Commit a file
 
 _You created a branch! :tada:_
+
 
 Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
 
